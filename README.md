@@ -61,7 +61,7 @@ CSV file data is written in with decimal values less than or equal to 1. Highlig
 ## Third-Party Licenses & Credits
 - **TextMesh Pro** - © Unity Technologies, used under the Unity Companion License.
 - **Liberation Sans / Roboto fonts** (bundled with TextMesh Pro) -
-  licensed under the SIL Open Font License v1.1. See OFL.txt.
+  licensed under the SIL Open Font License v1.1
 - **[ShowOnly] inspector attribute** - by Nick Glenn,
   https://gist.github.com/NickGlenn/84b8b43004a642b96ce9b6fef0bbcc8d
   (editor-only utility; used with attribution).
